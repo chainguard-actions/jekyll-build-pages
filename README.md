@@ -8,6 +8,7 @@ Hardened by [Chainguard](https://www.chainguard.dev) from the upstream action at
 
 | Version | Tag | Upstream commit |
 |---------|-----|-----------------|
+| v1.0.10 | [`v1.0.10`](https://github.com/chainguard-actions/jekyll-build-pages/tree/v1.0.10) | — |
 | v1.0.11 | [`v1.0.11`](https://github.com/chainguard-actions/jekyll-build-pages/tree/v1.0.11) | — |
 | v1.0.12 | [`v1.0.12`](https://github.com/chainguard-actions/jekyll-build-pages/tree/v1.0.12) | — |
 | v1.0.9 | [`v1.0.9`](https://github.com/chainguard-actions/jekyll-build-pages/tree/v1.0.9) | — |
